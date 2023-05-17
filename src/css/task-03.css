@@ -1,0 +1,10 @@
+
+.gallery-item {
+    margin-bottom: 10px;
+    display: flex;
+}
+
+.gallery-pic {
+    height: 100px;
+    width: auto;
+}
